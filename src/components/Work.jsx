@@ -32,10 +32,10 @@ const Work = () => {
                 <img src={amazon} alt="about" />
             </div>
             <div className="md:w-1/2">
-                <h2 className="md:text-4xl text-xl font-bold text-[#e2898e] mb-5 leading-normal flex items-center flex-wrap">Software Support Engineer</h2>
+                <h2 className="md:text-4xl text-xl font-bold text-[#e2898e] mb-5 leading-normal flex items-center flex-wrap">Software Development Engineer</h2>
                 <h3 class="md:text-2xl text-xl font-bold text-[#e8aba4] mb-5 leading-normal flex items-center flex-wrap">Jul 2020 - Aug 2022</h3>
                 <p className="text-[#966348] text-lg mb-7">
-                    During my tenure as a Software Support Engineer at Amazon, I played a pivotal role in optimizing the MVC-based microservices 
+                    During my tenure as a Software Development Engineer at Amazon, I played a pivotal role in optimizing the MVC-based microservices 
                     of the Seller Central Platform using Java and Spring Boot. This work significantly enhanced the efficiency of inbound and inventory 
                     shipment handling at Amazon Fulfillment Centers. I successfully managed the migration of over 40 applications deployed on AWS EC2 instances, 
                     ensuring a smooth transition and addressing legacy API deprecation across all phases of the software development lifecycle. Additionally, 
